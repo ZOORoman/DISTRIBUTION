@@ -6,6 +6,17 @@
 ## Swift
 
 # WEB DEVELOP
+**PHP**
+**HTML+CSS**
+**JS**
+
+# DBMS
+**Oracle**
+**PostgreSQL**
+**MongoDB**
+**Casandra**
+**MySQL**
+**Neo4j**
 
 
 # CAD,CAE,CAM (САПР - Система автоматизированного проектирования)
